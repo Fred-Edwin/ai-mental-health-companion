@@ -20,7 +20,7 @@ By participating in this project, you agree to abide by our commitment to:
 
 ### Development Setup
 1. Fork the repository
-2. Clone your fork: `git clone https://github.com/yourusername/ai-companion.git`
+2. Clone your fork: `git clone https://github.com/Fred-Edwin/ai-mental-health-companion.git`
 3. Install dependencies: `npm install`
 4. Copy environment template: `cp .env.local.example .env.local`
 5. Add your OpenAI API key to `.env.local`
@@ -41,7 +41,7 @@ By participating in this project, you agree to abide by our commitment to:
 ### Contribution Process
 
 #### 1. Choose an Issue
-- Check [open issues](https://github.com/yourusername/ai-companion/issues)
+- Check [open issues](https://github.com/Fred-Edwin/ai-mental-health-companion/issues)
 - Look for `good-first-issue` or `help-wanted` labels
 - Comment on the issue to let others know you're working on it
 
@@ -200,9 +200,9 @@ We use [Semantic Versioning](https://semver.org/):
 
 ## ❓ Questions?
 
-- **General Questions**: [Open a discussion](https://github.com/yourusername/ai-companion/discussions)
-- **Bug Reports**: [Create an issue](https://github.com/yourusername/ai-companion/issues)
-- **Feature Requests**: [Start a discussion](https://github.com/yourusername/ai-companion/discussions)
+- **General Questions**: [Open a discussion](https://github.com/Fred-Edwin/ai-mental-health-companion/discussions)
+- **Bug Reports**: [Create an issue](https://github.com/Fred-Edwin/ai-mental-health-companion/issues)
+- **Feature Requests**: [Start a discussion](https://github.com/Fred-Edwin/ai-mental-health-companion/discussions)
 
 ## 🙏 Recognition
 

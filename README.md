@@ -7,7 +7,9 @@ A sophisticated Next.js application that provides real-time voice interaction wi
 ![OpenAI](https://img.shields.io/badge/OpenAI-Realtime_API-green)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4-38bdf8)
 
-## 📸 Application Preview d:\AI applications\unfinished\ai-companion\public\inteface.png
+## 📸 Application Preview
+
+![AI Mental Health Companion Interface](./public/inteface.png)
 
 *A sophisticated interface featuring the Wellness Therapist persona with mood tracking, task management, and real-time voice interaction capabilities.*
 
@@ -75,8 +77,8 @@ Immediate access to professional help:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Fred-Edwin/ai-companion.git
-   cd ai-companion
+   git clone https://github.com/Fred-Edwin/ai-mental-health-companion.git
+   cd ai-mental-health-companion
    ```
 
 2. **Install dependencies**
@@ -238,8 +240,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **SAMHSA National Helpline**: 1-800-662-HELP (4357)
 
 ### Technical Support
-- [Report Issues](https://github.com/yourusername/ai-companion/issues)
-- [Discussions](https://github.com/yourusername/ai-companion/discussions)
+- [Report Issues](https://github.com/Fred-Edwin/ai-mental-health-companion/issues)
+- [Discussions](https://github.com/Fred-Edwin/ai-mental-health-companion/discussions)
 
 ---
 
