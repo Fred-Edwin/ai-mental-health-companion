@@ -7,11 +7,9 @@ A sophisticated Next.js application that provides real-time voice interaction wi
 ![OpenAI](https://img.shields.io/badge/OpenAI-Realtime_API-green)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4-38bdf8)
 
-## 📸 Application Preview
+## 📸 Application Preview d:\AI applications\unfinished\ai-companion\public\inteface.png
 
-![AI Companion Interface](https://github.com/user/ai-companion/assets/screenshot.png)
-
-*The AI Companion interface featuring the Wellness Therapist persona with mood tracking, task management, and real-time voice interaction capabilities.*
+*A sophisticated interface featuring the Wellness Therapist persona with mood tracking, task management, and real-time voice interaction capabilities.*
 
 ## ✨ Features
 
